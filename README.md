@@ -1,6 +1,6 @@
 # To Do List
 
-![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
+![logo](https://github.com/imlilac/Daneshkar-js-hw-4-ToDoList/blob/main/assets/img/banner.jpg)
 
 Designing a simple to do list using HTML5 & CSS & JS.
 
