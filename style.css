@@ -1,0 +1,99 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+   font-family: "poppins", sans-serif;
+}
+
+#container {
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.title {
+   font-size: 3rem;
+   margin-top: 100px;
+   margin-bottom: 30px;
+}
+
+.card-input {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   background-color: #edeef0;
+   border-radius: 30px;
+   padding-left: 20px;
+   margin-bottom: 25px;
+}
+.card-input input {
+   flex: 1;
+   background: transparent;
+   font-size: 1.4rem;
+   border: none;
+   outline: none;
+   padding: 10px;
+   width: 350px;
+}
+
+.add-btn {
+   font-size: 1.5rem;
+   color: rgb(254, 254, 254);
+   padding: 10px 35px;
+   background-color: rgb(95, 124, 97);
+   border-radius: 30px;
+   border: none;
+   cursor: pointer;
+}
+
+#task-list {
+   width: 450px;
+}
+
+ul li {
+   list-style: none;
+   font-size: 1.5rem;
+   padding: 12px 8px 12px 40px;
+   cursor: pointer;
+   text-align: left;
+   position: relative;
+}
+
+ul li::before {
+   content: "";
+   position: absolute;
+   height: 20px;
+   width: 20px;
+   border-radius: 50%;
+   border: 1px solid gray;
+   left: 7px;
+   bottom: 12px;
+}
+
+.task-checked {
+   color: #555;
+   text-decoration: line-through;
+}
+
+.task-checked::before {
+   background-color: rgb(123, 165, 123);
+}
+
+ul li span {
+   position: absolute;
+   right: 0;
+   top: 5px;
+   width: 40px;
+   height: 40px;
+   font-size: 1.85rem;
+   color: #555;
+   text-align: center;
+   line-height: 40px;
+}
+
+ul li span:hover {
+   background-color: rgb(179, 198, 179);
+   border-radius: 50%;
+   transition: 0.5s;
+}
