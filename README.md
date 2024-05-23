@@ -15,10 +15,11 @@ Designing a simple to do list using HTML5 & CSS & JS.
 Users should be able to:
 
 -  View the optimal layout for the site depending on their device's screen size
+-  Add new task and also able to remove the task or sign as it done
 
 ### Screenshot
 
-![](https://github.com/imlilac/instagram-card/blob/main/img/screen-1.png)
+![](https://github.com/imlilac/Daneshkar-js-hw-4-ToDoList/blob/main/assets/img/screen.png)
 
 ## My process
 
