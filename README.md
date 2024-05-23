@@ -1,8 +1,8 @@
-# Instagram Post
+# To Do List
 
 ![logo](https://github.com/imlilac/instagram-card/blob/main/img/banner.jpg)
 
-Designing a simple instagram card using HTML5 & CSS.
+Designing a simple to do list using HTML5 & CSS & JS.
 
 ## Table of contents
 
@@ -26,7 +26,8 @@ Users should be able to:
 
 -  Semantic HTML5 markup
 -  CSS custom properties
+-  JavaScript
 
 ## Author
 
--  Github - [ililac](https://github.com/ililac)
+-  Github - [imlilac](https://github.com/imlilac)
