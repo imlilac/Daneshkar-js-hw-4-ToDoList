@@ -12,11 +12,6 @@ This project is a single-page application for skin beauty products created with 
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Available Scripts](#available-scripts)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 - [Author](#author)
 
 ## Features
@@ -56,6 +51,9 @@ Make sure you have the following installed on your machine:
 
 ### Installation
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/yourusername/skin-beauty-react.git
+   npm install
+   npm start
+
