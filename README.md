@@ -1,59 +1,34 @@
-# Skin Beauty - Single Page Application
-
-This project is a single-page application for skin beauty products created with React. It showcases a list of best-selling products with images, names, and prices.
+# To Do List
 
 ![logo](https://github.com/imlilac/Daneshkar-js-hw-4-ToDoList/blob/main/assets/img/banner.jpg)
 
-## Table of Contents
+Designing a simple to do list using HTML5 & CSS & JS.
 
-- [Features](#features)
-- [The Challenge](#the-challenge)
-- [Screenshot](#screenshot)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Author](#author)
+## Table of contents
 
-## Features
+-  [The challenge](#the-challenge)
+-  [Screenshot](#screenshot)
+-  [Built with](#built-with)
 
-- Display of best-selling skin beauty products.
-- Dynamic rendering of product information.
-- Clean and modern design using React.
-
-## The Challenge
+## Challenge
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size.
-- Add new tasks and also be able to remove tasks or mark them as done.
+-  View the optimal layout for the site depending on their device's screen size
+-  Add new task and also able to remove the task or sign as it done
 
-## Screenshot
+### Screenshot
 
-![Screenshot](https://github.com/imlilac/Daneshkar-js-hw-4-ToDoList/blob/main/assets/img/screen.png)
+![](https://github.com/imlilac/Daneshkar-js-hw-4-ToDoList/blob/main/assets/img/screen.png)
 
-## Built With
+## My process
 
-- Semantic HTML5 markup
-- CSS custom properties
-- JavaScript
-- React
+### Built with
 
-## Getting Started
+-  Semantic HTML5 markup
+-  CSS custom properties
+-  JavaScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Author
 
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- [Node.js](https://nodejs.org/) (version 12 or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-
-### Installation
-
- Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/skin-beauty-react.git
-   npm install
-   npm start
-
+-  Github - [imlilac](https://github.com/imlilac)
